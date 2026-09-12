@@ -94,6 +94,5 @@ A Python-based task management application built with Flask, SQLAlchemy, and SQL
 
 ## Connect
 
-* LinkedIn: Add your profile link
-* Email: Add your email
-* Portfolio: Add your website (when available)
+* LinkedIn: www.linkedin.com/in/amirhossein-zangeneh-a92474424
+* Email: amirhossein.zangenehh@gmail.com
