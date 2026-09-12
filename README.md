@@ -27,7 +27,6 @@ I build maintainable software across frontend, backend, and data layers with a f
 
 ### Frontend
 
-* JavaScript
 * TypeScript
 * React
 * Next.js
