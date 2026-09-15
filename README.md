@@ -66,22 +66,6 @@ https://github.com/AmirhosseinZangeneh/IdentityInvariant-FAS
 
 ---
 
-## Other Projects
-
-### YouTube UI Clone
-
-A responsive YouTube interface implementation focused on frontend fundamentals, responsive design, and modern UI practices.
-
-### Contact Manager WinForms
-
-A desktop contact management application built with C#, WinForms, SQL Server, ADO.NET, and repository pattern concepts.
-
-### Task Master
-
-A Python-based task management application built with Flask, SQLAlchemy, and SQLite.
-
----
-
 ## Engineering Interests
 
 * Full-stack application development
