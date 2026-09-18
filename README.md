@@ -1,6 +1,6 @@
 # Amirhossein Zangeneh
 
-### Software Engineer · .NET & React/Next.js · Applied AI
+### Software Engineer building scalable backend systems and AI applications
 
 I build maintainable software across frontend, backend, and data layers with a focus on **modern web development, backend architecture, and applied machine learning**.
 
@@ -8,7 +8,7 @@ I build maintainable software across frontend, backend, and data layers with a f
 
 ## About Me
 
-* Software Engineer focused on full-stack application development
+* Software Engineer focused on scalable backend systems, software architecture, and applied AI.
 * Experienced with **C#/.NET**, **React**, **Next.js**, and **SQL Server**
 * Interested in software architecture, API design, distributed systems, and clean code
 * Exploring applied AI and computer vision through research-oriented projects
@@ -16,6 +16,14 @@ I build maintainable software across frontend, backend, and data layers with a f
 ---
 
 ## Tech Stack
+
+### Architecture
+
+* Clean Architecture
+* Domain Driven Design
+* CQRS
+* Modular Monolith
+* API Design
 
 ### Backend
 
