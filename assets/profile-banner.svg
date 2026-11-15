@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="244" viewBox="0 0 1000 244" role="img" aria-labelledby="title desc">
+<title id="title">Amirhossein Zangeneh | Full-Stack Developer</title>
+<desc id="desc">A midnight blue banner with a geometric software architecture motif and cyan accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101B30"/><stop offset="1" stop-color="#07111F"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52E0D1"/><stop offset="1" stop-color="#67A5FF"/></linearGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#84B2DF" stroke-opacity=".10"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="242" rx="18" fill="url(#bg)" stroke="#30435C"/>
+<path d="M640 2H980Q998 2 998 20V224Q998 242 980 242H640Z" fill="url(#grid)"/>
+<path d="M40 35H126" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<text x="40" y="65" fill="#73DCD7" font-family="ui-monospace,Consolas,monospace" font-size="14" letter-spacing="3">SOFTWARE ENGINEERING</text>
+<text x="38" y="115" fill="#F4F7FC" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700">Amirhossein Zangeneh</text>
+<text x="40" y="153" fill="#B6C8E0" font-family="Arial,Helvetica,sans-serif" font-size="23">Full-Stack Developer</text>
+<text x="40" y="194" fill="#8DA7C4" font-family="ui-monospace,Consolas,monospace" font-size="15">.NET  /  React  /  Next.js  /  Applied AI</text>
+<g fill="none" stroke-width="1.5" stroke-linejoin="round">
+<path d="M804 28L914 88L804 148L694 88Z" stroke="#69D8D4" fill="#122C3E" fill-opacity=".86"/>
+<path d="M694 88V110L804 170L914 110V88M804 148V170" stroke="#5297B3"/>
+<path d="M704 130L804 184L904 130M704 150L804 204L904 150" stroke="#50749B" stroke-opacity=".8"/>
+<path d="M804 49L876 88L804 127L732 88Z" stroke="#6EC5EA" stroke-opacity=".65"/>
+<path d="M804 69L839 88L804 107L769 88Z" stroke="#83F0DF" fill="#1A4A56"/>
+<path d="M804 184V218M694 110H670M914 110H938" stroke="#50829F" stroke-dasharray="4 5"/>
+</g>
+<g fill="#73E4D7"><circle cx="804" cy="88" r="4"/><circle cx="670" cy="110" r="3"/><circle cx="938" cy="110" r="3"/><circle cx="804" cy="218" r="3"/></g>
+</svg>
