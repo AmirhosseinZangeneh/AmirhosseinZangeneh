@@ -1,91 +1,52 @@
-# Amirhossein Zangeneh
+<div align="center">
 
-### Software Engineer building scalable backend systems and AI applications
+<img src="./assets/profile-banner.svg" alt="Amirhossein Zangeneh — Full-Stack Developer" width="100%" />
 
-I build maintainable software across frontend, backend, and data layers with a focus on **modern web development, backend architecture, and applied machine learning**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1727?style=for-the-badge&logo=vercel&logoColor=white)](https://amirhosseinzangeneh.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-zangeneh-a92474424)
+[![Email](https://img.shields.io/badge/Email-0D1727?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirhossein.zangenehh@gmail.com)
 
----
+</div>
 
-## About Me
+## About
 
-* Software Engineer focused on scalable backend systems, software architecture, and applied AI.
-* Experienced with **C#/.NET**, **React**, **Next.js**, and **SQL Server**
-* Interested in software architecture, API design, distributed systems, and clean code
-* Exploring applied AI and computer vision through research-oriented projects
+I am a full-stack developer focused on building secure, maintainable web applications with **ASP.NET Core, React, Next.js and TypeScript**.
 
----
+My interests span backend architecture, reliable APIs, database design, automated testing and applied AI research in computer vision.
 
-## Tech Stack
+## Technology
 
-### Architecture
+| Area | Stack |
+| :--- | :--- |
+| Backend | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square) |
+| Frontend | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss) |
+| Data | ![SQL Server](https://img.shields.io/badge/SQL_Server-39465E?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square) |
+| AI & research | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| Engineering | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-* Clean Architecture
-* Domain Driven Design
-* CQRS
-* Modular Monolith
-* API Design
+## Selected public projects
 
-### Backend
+| Project | Description |
+| :--- | :--- |
+| [IdentityInvariant-FAS](https://github.com/AmirhosseinZangeneh/IdentityInvariant-FAS) | Research on identity-invariant face presentation attack detection using PyTorch and adversarial representation learning. |
+| [AccountingManager-WinForms](https://github.com/AmirhosseinZangeneh/AccountingManager-WinForms) | Layered C# desktop application with SQL Server, repository and unit-of-work patterns, authentication and CI. |
+| [Task-Master](https://github.com/AmirhosseinZangeneh/Task-Master) | Responsive Flask task-management application demonstrating CRUD, validation and persistence. |
+| [YouTube UI Clone](https://github.com/AmirhosseinZangeneh/youtube-ui-clone) | Educational responsive frontend recreation with accessible controls and theme support. |
 
-* C# / .NET
-* ASP.NET Core
-* REST APIs
-* gRPC
-* SQL Server
+## Engineering focus
 
-### Frontend
-
-* TypeScript
-* React
-* Next.js
-* Tailwind CSS
-* Bootstrap
-
-### AI & Data
-
-* Python
-* PyTorch
-* Computer Vision
-* Machine Learning
-
-### Tools & Practices
-
-* Git / GitHub
-* GitHub Actions
-* Testing
-* Software Architecture
+- Clean Architecture, modular monoliths and domain-driven design
+- API design, authentication and authorization
+- Relational modeling and automated testing
+- Maintainable frontend architecture and responsive interfaces
+- Reproducible computer vision experiments
 
 ---
 
-## Featured Project
+<div align="center">
 
-### IdentityInvariant-FAS
+**Build with purpose. Engineer for maintainability.**
 
-A research-oriented framework for **identity-invariant face anti-spoofing**.
+[Explore my portfolio](https://amirhosseinzangeneh.vercel.app/) · [Get in touch](mailto:amirhossein.zangenehh@gmail.com)
 
-The project explores representation learning approaches for reducing identity-related shortcuts in face presentation attack detection models while maintaining spoof discrimination capability.
-
-**Technologies**
-
-`Python` · `PyTorch` · `Computer Vision` · `Deep Learning` · `Adversarial Learning`
-
-Repository:
-https://github.com/AmirhosseinZangeneh/IdentityInvariant-FAS
-
----
-
-## Engineering Interests
-
-* Full-stack application development
-* Backend architecture and API engineering
-* Distributed systems and service communication
-* Modern frontend architecture
-* Applied machine learning and computer vision
-
----
-
-## Connect
-
-* LinkedIn: www.linkedin.com/in/amirhossein-zangeneh-a92474424
-* Email: amirhossein.zangenehh@gmail.com
-* Portfolio: https://amirhosseinzangeneh.vercel.app/
+</div>
