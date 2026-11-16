@@ -30,8 +30,9 @@ My interests span backend architecture, reliable APIs, database design, automate
 | :--- | :--- |
 | [IdentityInvariant-FAS](https://github.com/AmirhosseinZangeneh/IdentityInvariant-FAS) | Research on identity-invariant face presentation attack detection using PyTorch and adversarial representation learning. |
 | [AccountingManager-WinForms](https://github.com/AmirhosseinZangeneh/AccountingManager-WinForms) | Layered C# desktop application with SQL Server, repository and unit-of-work patterns, authentication and CI. |
+| [RevayatCMS](https://github.com/AmirhosseinZangeneh/revayat-cms) | Persian RTL editorial CMS built with ASP.NET MVC 5 (.NET Framework 4.8), EF6, SQL Server, and ASP.NET Identity; includes role-based administration and Windows CI. |
 | [Task-Master](https://github.com/AmirhosseinZangeneh/Task-Master) | Responsive Flask task-management application demonstrating CRUD, validation and persistence. |
-| [YouTube UI Clone](https://github.com/AmirhosseinZangeneh/youtube-ui-clone) | Educational responsive frontend recreation with accessible controls and theme support. |
+
 
 ## Engineering focus
 
